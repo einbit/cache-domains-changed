@@ -123,6 +123,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "ecloud.global",
+			"description": "CDN for ecloud.global",
+			"domain_files": ["ecloud.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
